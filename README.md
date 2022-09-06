@@ -7,3 +7,5 @@
   This is link of code "https://github.com/YomnaAhmed97/Simple-code-examples/blob/main/QR_code_Generator.ipynb."
 ### 3- Convert emoji into text:
   This is link of code  "https://github.com/YomnaAhmed97/Simple-code-examples/blob/main/Convert_emoji_into_text.ipynb."
+### 4- Live Weather Updates:
+  This is link of code  "https://github.com/YomnaAhmed97/Simple-code-examples/blob/main/Live_Weather_Updates.ipynb."
