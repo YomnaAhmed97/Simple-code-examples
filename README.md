@@ -11,4 +11,5 @@
   This is link of code  "https://github.com/YomnaAhmed97/Simple-code-examples/blob/main/Live_Weather_Updates.ipynb."
 ### 5- Remove Cuss Words:
 This is link of code "https://github.com/YomnaAhmed97/Simple-code-examples/blob/main/Remove_Cuss_Words.ipynb."
+
 for more information about better profanity " https://pypi.org/project/better-profanity/"
